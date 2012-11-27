@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>welcome to the app home page </h1>
+<h3><a href="{% url repo %}">Click here to view repo info</a>
+<div>
+    <a href="{% url logout %}">Click Here to Logout</a>
+</div>
+{% endblock %}

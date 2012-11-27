@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main{
+	
+	
+	height:550px;
+	    background: url(../img/02.png) no-repeat;
+    background-size: 100%;
+	
+	}
+.header{
+
+
+	  height:85px;
+	  background: url(../img/01.png) no-repeat;
+    background-size: 100%;
+       }
+.slider{
+	height:594px;
+  background: url(../img/08.png) no-repeat;
+    background-size: 100%;
+	
+	}
+
+
+.centerheader, .centerslider, .centermain, .centerfooter {
+	width:960px;
+	margin:0 auto;
+	padding:0 auto;}
+.centermain{
+	position:relative;
+	padding-top:50px;}
+.nav{
+	position:relative;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-transform:uppercase; color:#fefef2;
+	padding-top:0px;
+        
+}
+.nav a{
+	text-decoration:none;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.
+
+
+		color:#fefef2}
+.logo{
+	position:relative;
+	float:right;}
+
+.black1{
+	position:relative;
+	background-color:#000;
+	height:150px;
+	width:940px;}
+.black2{
+	position:relative;
+	background-color:#000;
+	height:200px;
+	width:940px;}
+.text1{
+	font-size:30px;
+	color:teal;
+	font-family:Arial, Helvetica, sans-serif;}
+.text2{
+	font-size:17px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:steelblue;}
+.welcome{
+	position:relative;
+	float:left;
+	width:250px;
+	padding-left:0px;
+	}
+.about{
+	position:relative; width:270px; padding-left:30px;
+	float:left;}
+.news{
+	position:relative; width:270px; padding-left:30px;
+	float:left;}
+.text{
+	color:#a4a3a3;}
+.text3 a{
+	color:#fefef2;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	
+	}
+.text4{
+	text-transform:uppercase;
+	color:#fefef2;}
+.text5{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	color:#7e7e7e;
+	padding-top:20px;
+	padding-left:30px;}
+.menu{
+	position:relative;
+	float:left;
+	}
+.menu a{ font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+text-transform:uppercase;
+color:#a5a5a0;
+}
+.vlinks{
+	position:relative;
+	float:right;}
+.vlinks a{ font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+text-transform:uppercase;
+color:#a5a5a0;}
+
